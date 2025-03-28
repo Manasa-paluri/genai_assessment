@@ -1,0 +1,320 @@
+Website,Extracted Information
+https://www.tcs.com,"```json
+{
+  ""company_mission_statement_or_core_values"": ""To make a difference through technology, build greater futures for businesses, drive positive change for the benefit of all, combining innovation and collective knowledge. Key elements mentioned include expertise, commitment, shared beliefs, innovation, collective knowledge, corporate sustainability, diversity, equity, and inclusion, and corporate social responsibility ('The TCS Way')."",
+  ""products_or_services"": {
+    ""industries_served"": [
+      ""Banking"",
+      ""Capital Markets"",
+      ""Consumer Packaged Goods and Distribution"",
+      ""Communications, Media, and Information Services"",
+      ""Education"",
+      ""Energy, Resources, and Utilities"",
+      ""Healthcare"",
+      ""High Tech"",
+      ""Insurance"",
+      ""Life Sciences"",
+      ""Manufacturing"",
+      ""Public Services"",
+      ""Retail"",
+      ""Travel and Logistics""
+    ],
+    ""services"": [
+      ""Artificial Intelligence"",
+      ""Cloud (including AWS, Google Cloud, Microsoft Cloud, TCS Enterprise Cloud)"",
+      ""Cognitive Business Operations"",
+      ""Consulting"",
+      ""Cybersecurity"",
+      ""Data and Analytics"",
+      ""Enterprise Solutions (including ERP on Cloud)"",
+      ""IoT and Digital Engineering"",
+      ""Network Solutions and Services"",
+      ""TCS Interactive"",
+      ""Sustainability Services""
+    ],
+    ""products_and_platforms"": [
+      ""TCS ADD™"",
+      ""TCS BANCS™"",
+      ""TCS BFSI Platforms"",
+      ""TCS CHROMA™"",
+      ""TCS Customer Intelligence & Insights™"",
+      ""TCS ERP on Cloud"",
+      ""ignio™"",
+      ""TCS iON™"",
+      ""TCS HOBS™"",
+      ""TCS Intelligent Urban Exchange™"",
+      ""TCS OmniStore™"",
+      ""TCS Optumera™"",
+      ""TCS Tap™"",
+      ""Quartz™ – The Smart Ledgers™"",
+      ""TCS TwinX™"",
+      ""TCS MasterCraft™"",
+      ""Jile™""
+    ],
+    ""research_and_innovation"": [
+      ""TCS Research"",
+      ""TCS Pace™""
+    ]
+  },
+  ""founding_details"": {
+    ""year"": 1968,
+    ""founders"": [
+      ""Tata Sons (J.R.D. Tata)"",
+      ""F.C. Kohli (Considered key figure/First CEO)""
+    ]
+  },
+  ""headquarters_location"": ""Mumbai, Maharashtra, India"",
+  ""key_executives_or_leadership"": [
+    {
+      ""name"": ""K. Krithivasan"",
+      ""title"": ""Chief Executive Officer and Managing Director""
+    },
+    {
+      ""note"": ""The text mentions a 'Leadership' team but doesn't list specific members. Current leadership details are inferred from public knowledge.""
+    }
+  ],
+  ""notable_awards_or_recognitions"": [
+    ""Rising Star Award at GTC 2025"",
+    ""Named among FORTUNE® World's Most Admired Companies"",
+    ""Recognized as the second IT brand worth over $20 billion"",
+    ""Acknowledged by analysts as a cross-industry leader""
+  ]
+}
+```"
+https://www.starbucks.com,"```json
+{
+  ""company_mission_statement_or_core_values"": ""To inspire and nurture the human spirit – one person, one cup and one neighborhood at a time."",
+  ""products_or_services"": ""Coffee beverages, teas, pastries, sandwiches, packaged coffee, merchandise, operating retail coffee stores (cafes)."",
+  ""founding_details"": {
+    ""year_founded"": 1971,
+    ""founders"": [
+      ""Jerry Baldwin"",
+      ""Zev Siegl"",
+      ""Gordon Bowker""
+    ]
+  },
+  ""headquarters_location"": ""Seattle, Washington, USA"",
+  ""key_executives"": [
+    {
+      ""name"": ""Laxman Narasimhan"",
+      ""title"": ""Chief Executive Officer""
+    }
+  ],
+  ""notable_awards_or_recognitions"": ""Starbucks has received numerous awards and recognitions over the years, including rankings on Fortune's World's Most Admired Companies lists, awards for brand value, sustainability efforts, and as an employer.""
+}
+```"
+https://www.panasonic.com,"```json
+{
+  ""company_mission_statement_or_core_values"": ""Aligned with the Panasonic Group's Basic Business Philosophy, focusing on innovation, reliability, sustainability (commitment to a 'Greener India' and 'Ecosystem Restoration'), community empowerment ('Light up the Future' initiative), and creating a smarter, brighter life for customers through technology."",
+  ""products_or_services"": ""Offers a diverse range of products including Consumer Electronics (Air Conditioners, Televisions, Cameras, Audio Systems, Headphones), Home Appliances (Refrigerators, Washing Machines, Microwave Ovens, Water Purifiers, Air Purifiers, Vacuum Cleaners, Irons, Small Kitchen Appliances), Beauty & Personal Care (Hair Dryers, Shavers, Trimmers), Batteries, Life Solutions (Wiring Devices, Lighting, Solar Panels, Switchgears, Wires/Cables, Conduit Pipes, Power Tools, Water Heaters), and Business Solutions (Broadcast Systems, Professional Displays, Security Systems, Smart Factory Solutions including Welding and SMT, Toughbook Laptops, Automotive Batteries, Energy Solutions)."",
+  ""founding_details"": {
+    ""founded_year"": ""Not Available in the provided text (Parent company Panasonic Corporation founded in 1918). The text mentions over 65 years of expertise in manufacturing Air Conditioners in India."",
+    ""founders"": ""Not Available in the provided text (Parent company founder: Konosuke Matsushita).""
+  },
+  ""headquarters_location"": ""Gurugram, Haryana, India."",
+  ""key_executives_or_leadership_team"": ""Manish Sharma (Chairman, mentioned hosting 'Duologues'). Other specific leadership roles are not detailed in the text."",
+  ""notable_awards_or_recognitions"": ""Claims '#No1JapaneseBrand' status for its Air Conditioners in India. Runs the 'Panasonic Ignition' corporate innovation program, awarding startups like Nosh and RayIoT.""
+}
+```"
+https://www.gsk.com,"```json
+{
+  ""mission_statement_or_core_values"": ""Uniting science, talent and technology to get ahead of disease together. Core values emphasize access to medicines ('affordable and available'), global health and health security (focus on infectious diseases in lower-income countries), environmental sustainability ('net zero, nature positive, healthier planet'), inclusion ('attract and retain the best talent regardless of background'), and high ethical standards ('do the right thing')."",
+  ""products_or_services"": ""Development and manufacturing of innovative medicines and vaccines. Key therapeutic focus areas include Respiratory, Immunology & Inflammation, Oncology, HIV, and Infectious Diseases."",
+  ""founding_year"": ""2000 (as GSK plc, formed through the merger of Glaxo Wellcome plc and SmithKline Beecham plc)"",
+  ""founders"": ""Formed via the merger of Glaxo Wellcome plc and SmithKline Beecham plc (Specific individual founders are not typically cited for the merged entity)."",
+  ""headquarters_location"": ""79 New Oxford Street, London, United Kingdom, WC1A 1DG (Registered Office)"",
+  ""key_executives_or_leadership"": ""The company has a 'Board of directors and leadership team'. Key scientists mentioned include Dr Tony Wood, Dr Sabine Luik, and Dr Hesham Ahmed Abdullah. Based on general knowledge, Emma Walmsley serves as the CEO."",
+  ""notable_awards_or_recognitions"": ""Not Available""
+}
+```"
+https://www.ford.com,"```json
+{
+  ""company_mission_values"": ""To help build a better world, where every person is free to move and pursue their dreams."",
+  ""products_services"": ""Manufactures and sells a wide range of vehicles including SUVs, cars, trucks, vans, electric vehicles (EVs), hybrid vehicles, performance vehicles, and commercial vehicles (e.g., Mustang, F-150, Bronco, Explorer, Maverick, Mach-E, Transit). Offers related services such as vehicle financing (Ford Credit), parts and accessories, vehicle maintenance and repair, roadside assistance, connected services (FordPass, SYNC, BlueCruise), software updates, and certified used vehicles."",
+  ""founding_info"": {
+    ""founded_date"": ""June 16, 1903"",
+    ""founders"": [
+      ""Henry Ford""
+    ]
+  },
+  ""headquarters_location"": ""Dearborn, Michigan, USA"",
+  ""key_executives"": [
+    {
+      ""name"": ""Bill Ford"",
+      ""title"": ""Executive Chair""
+    },
+    {
+      ""name"": ""Jim Farley"",
+      ""title"": ""President and CEO""
+    }
+  ],
+  ""awards_recognitions"": ""Yes, the company has received numerous awards. The provided text specifically mentions the Ford Ranger® being named the 2025 North American Truck of the Year™.""
+}
+```"
+https://www.nespresso.com,"```json
+{
+  ""mission_statement_or_core_values"": ""Focuses on providing high-quality, sustainable coffee experiences. Key commitments mentioned include 'Sustainable Quality', 'Origins and Blends', 'The Coffee Experience', and 'Our Commitments'."",
+  ""products_or_services"": [
+    ""Coffee Capsules (various origins, blends, and limited editions like Master Origins India, World Explorations Stockholm Lungo, Ispirazione Italiana)"",
+    ""Coffee Machines (for home use like Essenza Mini, CitiZ, Lattissima one)"",
+    ""Professional Coffee Machines (for businesses)"",
+    ""Coffee Accessories (Capsule Dispensers, Travel Mugs, Cups Sets, Milk Frothers like Aeroccino 3)"",
+    ""Nespresso Professional Solutions (tailored coffee solutions for offices, hotels, restaurants)"",
+    ""Online Store and Retail Boutiques ('Our Stores')"",
+    ""Machine Registration and Warranty Services"",
+    ""Customer Support and Advice""
+  ],
+  ""founding_details"": {
+    ""founded_year"": 1986,
+    ""founders"": ""Pioneered by Eric Favre, launched as a subsidiary of Nestlé S.A.""
+  },
+  ""headquarters_location"": ""Lausanne, Switzerland"",
+  ""key_executives"": [
+    {
+      ""name"": ""Guillaume Le Cunff"",
+      ""title"": ""CEO, Nespresso""
+    }
+  ],
+  ""notable_awards_or_recognitions"": ""Certified B Corporation, recognizing its commitment to high social and environmental performance, accountability, and transparency.""
+}
+```"
+https://www.siemens-energy.com,"```json
+{
+  ""company_name"": ""Siemens Energy"",
+  ""mission_statement_or_core_values"": {
+    ""mission"": ""Support companies and countries to reduce emissions across the energy landscape – for a more reliable, affordable and sustainable energy system."",
+    ""core_strategies"": [
+      ""Expand renewables"",
+      ""Transform conventional power"",
+      ""Strengthen electrical grids"",
+      ""Drive industry decarbonization"",
+      ""Secure supply chains""
+    ]
+  },
+  ""products_and_services"": {
+    ""products"": [
+      ""Circuit breakers"",
+      ""Compressors"",
+      ""Control systems"",
+      ""Disconnectors"",
+      ""Electrical solutions"",
+      ""Electrolyzer"",
+      ""Energy storage (including Battery energy storage systems)"",
+      ""FACTS"",
+      ""Gas-insulated switchgear"",
+      ""Gas turbines"",
+      ""Generators"",
+      ""Grid automation"",
+      ""Heat pumps"",
+      ""HVDC"",
+      ""HV substations"",
+      ""Instrument transformers"",
+      ""Offshore grid connections"",
+      ""Overhead line solutions"",
+      ""Power plants"",
+      ""Process safety software"",
+      ""Rotating grid stabilizers"",
+      ""Steam turbines"",
+      ""Subsea equipment"",
+      ""Surge arresters"",
+      ""Transformers"",
+      ""Zero F-gas high voltage products"",
+      ""Wind power technology (via Siemens Gamesa)""
+    ],
+    ""services"": [
+      ""Control system services"",
+      ""Consultancy and advisory services"",
+      ""Digital services"",
+      ""Installation and commissioning"",
+      ""Modernization and upgrade solutions"",
+      ""Repairs and maintenance"",
+      ""Service programs"",
+      ""Spare Parts"",
+      ""Sustainability certification"",
+      ""Trainings""
+    ],
+    ""solutions_by_industry"": [
+      ""Renewables"",
+      ""Power and heat generation"",
+      ""Power transmission"",
+      ""Oil and gas"",
+      ""Pulp and paper"",
+      ""Marine"",
+      ""Data centers""
+    ],
+    ""solutions_by_use_case"": [
+      ""Air separation"",
+      ""Biomass"",
+      ""Brownfield transformation"",
+      ""Decarbonisation of power"",
+      ""Distributed power generation"",
+      ""Power-to-x"",
+      ""Energy Storage""
+    ]
+  },
+  ""foundation"": {
+    ""founded_date"": ""2020"",
+    ""founders"": ""Formed via spin-off from Siemens AG""
+  },
+  ""headquarters_location"": ""Munich, Germany"",
+  ""key_leadership"": [
+    {
+      ""name"": ""Joe Kaeser"",
+      ""title"": ""Chairman of the Supervisory Board""
+    }
+  ],
+  ""awards_and_recognitions"": ""Not Available""
+}
+```"
+https://www.theheinekencompany.com,"```json
+{
+  ""company_mission_statement_or_core_values"": ""While not explicitly stated in the provided text, Heineken often emphasizes 'Brewing a Better World', focusing on values like Passion for Quality, Enjoyment of Life, and Respect for People and Planet."",
+  ""products_or_services"": ""Global brewing company offering a wide portfolio of international and local beer and cider brands, including the flagship Heineken® brand, Amstel, Tiger, Sol, Birra Moretti, and Strongbow cider among others."",
+  ""founding_details"": {
+    ""year_founded"": 1864,
+    ""founders"": [
+      ""Gerard Adriaan Heineken""
+    ]
+  },
+  ""headquarters_location"": ""Amsterdam, Netherlands"",
+  ""key_executives_or_leadership"": [
+    {
+      ""name"": ""Dolf van den Brink"",
+      ""title"": ""Chairman of the Executive Board and CEO""
+    }
+  ],
+  ""notable_awards_or_recognitions"": ""Heineken and its various brands have received numerous awards globally throughout their history for product quality, marketing effectiveness (e.g., Cannes Lions awards), and sustainability efforts.""
+}
+```"
+https://www.lenovo.com,"```json
+{
+  ""company_mission_statement_or_core_values"": ""Lenovo's core message emphasizes 'Smarter Technology for All', aiming at 'Fulfilling Potential through Technology', being an 'Innovative Partner', and showing commitment to sustainability (e.g., CO2 Offset Service)."",
+  ""products_or_services"": ""Offers a wide range of products including laptops (ThinkPad, IdeaPad, Yoga, Legion), desktops (ThinkCentre, IdeaCentre), workstations (ThinkStation), tablets, smartphones, monitors, accessories, software, servers, storage, and AI solutions. Services include technical support, order support, PC services, digital workplace solutions, premier/premium support plans, and sustainability solutions."",
+  ""founding_details"": {
+    ""founded_year"": 1984,
+    ""founders"": ""Liu Chuanzhi and a group of engineers from the Chinese Academy of Sciences (originally founded as Legend).""
+  },
+  ""headquarters_location"": ""Dual headquarters in Beijing, China and Morrisville, North Carolina, USA."",
+  ""key_executives_or_leadership_team"": ""Yang Yuanqing (Chairman & CEO)."",
+  ""notable_awards_or_recognitions"": ""Lenovo consistently ranks among the top global PC vendors and frequently appears on lists such as the Fortune Global 500. The company receives numerous industry awards for innovation and design across its product portfolio.""
+}
+```"
+https://www.americanexpress.com,"```json
+{
+  ""company_mission_statement_or_core_values"": ""To be the world's most respected service brand, providing exceptional customer experiences through innovative payment, travel, and expense management solutions. (Inferred based on the presence of 'Vision and Mission Statement' link and general knowledge)"",
+  ""products_or_services"": ""Financial services including Credit Cards, Charge Cards (Personal, Premium, Travel, Rewards, Corporate), Payment Solutions, Travel Booking Services (Hotels, Flights), Travel Insurance, Travelers Cheques, Various Insurance Products (Health, Life, Auto, Home), Membership Rewards Programs, Business Solutions (Corporate Cards, Payment Management, Expense Management Tools), Merchant Services."",
+  ""founding_details"": {
+    ""founded_year"": 1850,
+    ""founders"": [
+      ""Henry Wells"",
+      ""William G. Fargo"",
+      ""John Warren Butterfield""
+    ]
+  },
+  ""headquarters_location"": ""New York City, New York, USA"",
+  ""key_executives_or_leadership"": [
+    ""Stephen J. Squeri (Chairman and CEO)""
+  ],
+  ""notable_awards_or_recognitions"": ""American Express consistently receives awards and recognition for brand value, customer satisfaction, and being a top employer. (Inferred based on general knowledge, specific awards not listed in the text)""
+}
+```"
