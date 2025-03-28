@@ -1,17 +1,19 @@
-import json
-import csv
-import google.generativeai as genai
-from selenium import webdriver
 from selenium.webdriver.edge.service import Service as EdgeService
 from selenium.webdriver.edge.options import Options as EdgeOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium import webdriver
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from dotenv import load_dotenv 
-import os 
 from bs4 import BeautifulSoup
+import google.generativeai as genai
+import json
+import csv
+import os 
 import re
+
+
 load_dotenv()
 GENAI_API_KEY = os.getenv("GENAI_API_KEY")
 def scrape_website(url):
